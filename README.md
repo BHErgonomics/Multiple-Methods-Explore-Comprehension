@@ -2,6 +2,10 @@
 
 Authors: [Entong Gao](https://github.com/Getttttttt), Jialu Guo, Xipeng Pang, Danya Bo, Zhe Chen*
 
+Our research framework as below:
+
+![image = framework](./Figure/Framework.png)
+
 ## Background
 
 Smart voice systems,  such as voice assistants and smart speakers,  are integral to domains such as smart homes, customer service, healthcare, and smart learning. The effectiveness of these systems relies on user comprehension performance,  which is crucial for enhancing user experience. In this study, the primary factors influencing comprehension performance in multilanguage smart voice systems is examined, and the efficacy of various analytical methods, including LASSO regression, SEM, PLSSEM, CNN, and BiLSTM, are assessed by identifying and improving these factors. Using a diverse dataset from human–computer interaction experiments made publicly available on GitHub, these five methods are applied to discern the impact of environmental and user specific factors on comprehension.
